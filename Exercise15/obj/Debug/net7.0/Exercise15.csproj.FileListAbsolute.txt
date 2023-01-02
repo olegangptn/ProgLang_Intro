@@ -1,0 +1,15 @@
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise15/obj/Debug/net7.0/Exercise15.csproj.AssemblyReference.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise15/obj/Debug/net7.0/Exercise15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise15/obj/Debug/net7.0/Exercise15.AssemblyInfoInputs.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise15/obj/Debug/net7.0/Exercise15.AssemblyInfo.cs
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise15/obj/Debug/net7.0/Exercise15.csproj.CoreCompileInputs.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise15/bin/Debug/net7.0/Exercise15
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise15/bin/Debug/net7.0/Exercise15.deps.json
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise15/bin/Debug/net7.0/Exercise15.runtimeconfig.json
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise15/bin/Debug/net7.0/Exercise15.dll
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise15/bin/Debug/net7.0/Exercise15.pdb
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise15/obj/Debug/net7.0/Exercise15.dll
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise15/obj/Debug/net7.0/refint/Exercise15.dll
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise15/obj/Debug/net7.0/Exercise15.pdb
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise15/obj/Debug/net7.0/Exercise15.genruntimeconfig.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise15/obj/Debug/net7.0/ref/Exercise15.dll

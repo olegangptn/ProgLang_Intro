@@ -1,0 +1,15 @@
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise13/bin/Debug/net7.0/Exercise13
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise13/bin/Debug/net7.0/Exercise13.deps.json
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise13/bin/Debug/net7.0/Exercise13.runtimeconfig.json
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise13/bin/Debug/net7.0/Exercise13.dll
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise13/bin/Debug/net7.0/Exercise13.pdb
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise13/obj/Debug/net7.0/Exercise13.csproj.AssemblyReference.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise13/obj/Debug/net7.0/Exercise13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise13/obj/Debug/net7.0/Exercise13.AssemblyInfoInputs.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise13/obj/Debug/net7.0/Exercise13.AssemblyInfo.cs
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise13/obj/Debug/net7.0/Exercise13.csproj.CoreCompileInputs.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise13/obj/Debug/net7.0/Exercise13.dll
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise13/obj/Debug/net7.0/refint/Exercise13.dll
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise13/obj/Debug/net7.0/Exercise13.pdb
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise13/obj/Debug/net7.0/Exercise13.genruntimeconfig.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise13/obj/Debug/net7.0/ref/Exercise13.dll

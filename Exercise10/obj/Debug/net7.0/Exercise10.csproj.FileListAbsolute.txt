@@ -1,0 +1,15 @@
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise10/bin/Debug/net7.0/Exercise10
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise10/bin/Debug/net7.0/Exercise10.deps.json
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise10/bin/Debug/net7.0/Exercise10.runtimeconfig.json
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise10/bin/Debug/net7.0/Exercise10.dll
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise10/bin/Debug/net7.0/Exercise10.pdb
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise10/obj/Debug/net7.0/Exercise10.csproj.AssemblyReference.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise10/obj/Debug/net7.0/Exercise10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise10/obj/Debug/net7.0/Exercise10.AssemblyInfoInputs.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise10/obj/Debug/net7.0/Exercise10.AssemblyInfo.cs
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise10/obj/Debug/net7.0/Exercise10.csproj.CoreCompileInputs.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise10/obj/Debug/net7.0/Exercise10.dll
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise10/obj/Debug/net7.0/refint/Exercise10.dll
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise10/obj/Debug/net7.0/Exercise10.pdb
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise10/obj/Debug/net7.0/Exercise10.genruntimeconfig.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/ProgLang Intro/Exercise10/obj/Debug/net7.0/ref/Exercise10.dll
